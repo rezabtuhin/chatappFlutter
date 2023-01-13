@@ -1,16 +1,31 @@
-# mychatapp
+# Fishbook Flutter
 
-A new Flutter project.
+A simple chat app made with Flutter programming language.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app is currently under development. Saveral bugs may appear while running this application. Though there are no release versions right now But there will be soon.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+There are several ways to run this application.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Visual Studio Code
+
+- Start VS Code.
+- Invoke **View > Command Palette…**.
+- Type “install”, and select **Extensions: Install Extensions**.
+- Type “flutter” in the extensions search field, select **Flutter** in the list, and click **Install**. This also installs the required Dart plugin.
+  > Now you'll be needing an emulator to run the program. Follow the instructions from the given link.
+- [Setup android virtual device](https://developer.android.com/studio/run/managing-avds)
+
+After that press `F5` on your keyboard to run `main.dart`, select the `virtual device` you installed and you are good to go.
+
+### Android studio
+
+[Download](https://developer.android.com/studio) and install the Android Studio.
+
+- [Setup android virtual device](https://developer.android.com/studio/run/managing-avds).
+- [Run `main.dart` on emulator](https://developer.android.com/studio/run/emulator).
+
+# Thank you.
